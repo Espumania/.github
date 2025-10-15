@@ -1,11 +1,13 @@
 # 🌍 Espumania
 
-> **Un videojuego 2D narrativo y de aventura que fomenta la conciencia ambiental.**
+> **Es un videojuego narrativo y de aventura 2.5D que combina diversión, exploración y conciencia ambiental.
+El jugador controla a Bubbles, una pequeña burbuja creada para limpiar un mundo invadido por la suciedad, mientras descubre la historia del Reino de Espumania y el poder de la pureza interior.**
 
 ---
 
 ## 🎯 **Nuestra misión**
-Fomentar en los más jóvenes la concientización sobre el cuidado del medio ambiente a través de una experiencia interactiva y educativa.
+Fomentar en los más jóvenes la concientización sobre el cuidado del medio ambiente a través de una experiencia interactiva, educativa e inspiradora.
+Buscamos demostrar que hasta lo más pequeño puede generar grandes cambios cuando actúa con propósito.
 
 ---
 
